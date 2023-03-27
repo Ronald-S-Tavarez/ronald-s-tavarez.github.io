@@ -1,0 +1,11 @@
+[  
+    {
+        "title": "I Created A Development Blog!",
+        "date": "March 26, 2023",
+        "content": "Today I made my first step towards my career as an indie dev by making my own development blog! <br><br> I used plain html, css, and js to make it and I store the blog posts in a json file right on github. <br><br> To see the code for this site go ahead and press the github link at the bottom and check here regularly to keep tabs on every project I do from now on!",
+        "type": "General",
+        "image_link": "picture/blog_1.png",
+        "link" : "https://github.com/Ronald-S-Tavarez/ronald-s-tavarez.github.io",
+        "link_image": "resource/github.svg"
+    }
+]
